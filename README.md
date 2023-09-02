@@ -2,7 +2,7 @@ Olá! Me chamo Edenilson Fabiano...
 
 Estou sempre disposto a aprender e compartilhar o que aprendo...
 
-Espero me tornar um bom profissional e amar a área que decidi atuar.
+Espero me tornar um bom profissional e continuar amando a área que decidi atuar.
 
 Networking é essencial.
 
