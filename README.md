@@ -12,7 +12,7 @@ Estou sempre disposto a aprender e compartilhar o que aprendi na certeza de que 
 
 ## Aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="60"/> <img loading="lazy" src="https://qph.cf2.quoracdn.net/main-qimg-0e18550bb7c9827e878e1b7711775c79" width="70" height="60"/> <img loading="lazy" src="https://play-lh.googleusercontent.com/xr3hdKMuksZmNfK1OIVkXJZK8EKDepGHS3PoCn4kaEB8boOn-3gqhPxHvExLCu-A3TZs" width="70" height="60"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="60"/> <img loading="lazy" src="https://qph.cf2.quoracdn.net/main-qimg-0e18550bb7c9827e878e1b7711775c79" width="70" height="60"/> 
 
 ---
 <div>
