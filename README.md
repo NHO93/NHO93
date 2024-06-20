@@ -1,8 +1,17 @@
 ## About me
 
-Olá! Me chamo Edenilson Fabiano, amo cantar, goste de ler e adoro fotografar.
+> Olá, tudo bem? Sou Edenilson Fabiano, porém pode me chamar de Fabinho, além da tecnologia gosto muito de:
+> 
+> cantar
+> 
+> ler
+> 
+> fotografar
+> 
+> E estar com a familia e amigos
 
-Estou sempre disposto a aprender e compartilhar o que aprendi na certeza de que me tornarei um excelente profissional.
+ - [ ] Estou sempre disposto a aprender e compartilhar o que aprendo.
+ - [ ] 
 
 ## Networking é essencial.
 <div>
@@ -12,7 +21,8 @@ Estou sempre disposto a aprender e compartilhar o que aprendi na certeza de que 
 
 ## Aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="60"/> <img loading="lazy" src="https://qph.cf2.quoracdn.net/main-qimg-0e18550bb7c9827e878e1b7711775c79" width="70" height="60"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="60"/> <img loading="lazy" src="https://qph.cf2.quoracdn.net/main-qimg-0e18550bb7c9827e878e1b7711775c79" width="70" height="60"/>  <img loading="lazy" src="https://cdn.pixabay.com/photo/2024/03/31/02/11/python-8665904_640.png" width="70" height="60"/> 
+
 
 ---
 <div>
@@ -23,14 +33,6 @@ Estou sempre disposto a aprender e compartilhar o que aprendi na certeza de que 
 
  ---
 
-| Rank |    Hobbies    |
-|-----:|---------------|
-|     1|   Cantar      |
-|     2|   Ler         |
-|     3|   Fotografar  |
-
-
----
 >  “É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso.”
 
 —Bill Gates
