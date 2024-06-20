@@ -11,7 +11,6 @@
 > E estar com a familia e amigos
 
  - [ ] Estou sempre disposto a aprender e compartilhar o que aprendo.
- - [ ] 
 
 ## Networking é essencial.
 <div>
