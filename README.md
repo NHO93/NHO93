@@ -20,7 +20,7 @@
 
 ## Aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="60"/> <img loading="lazy" src="https://qph.cf2.quoracdn.net/main-qimg-0e18550bb7c9827e878e1b7711775c79" width="70" height="60"/>  <img loading="lazy" src="https://cdn.pixabay.com/photo/2024/03/31/02/11/python-8665904_640.png" width="70" height="60"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="60"/> <img loading="lazy" src="https://qph.cf2.quoracdn.net/main-qimg-0e18550bb7c9827e878e1b7711775c79" width="70" height="60"/>  <img loading="lazy" src="https://cdn.pixabay.com/photo/2024/03/31/02/11/python-8665904_640.png" width="70" height="60"/> <img loading="lazy" src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" width="70" height="60"/>
 
 
 ---
