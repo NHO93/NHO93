@@ -2,13 +2,13 @@
 
 > Olá, tudo bem? Sou Edenilson Fabiano, porém pode me chamar de Fabinho, além da tecnologia gosto muito de:
 > 
-> cantar
+> Cantar
 > 
-> ler
+> Ler
 > 
-> fotografar
+> Fotografar
 > 
-> E estar com a familia e amigos
+> Estar com a familia e amigos
 
  - [ ] Estou sempre disposto a aprender e compartilhar o que aprendo.
 
