@@ -1,13 +1,9 @@
 ## About me
 
 > Olá, tudo bem? Sou Edenilson Fabiano, porém pode me chamar de Fabinho, além da tecnologia gosto muito de:
-> 
-> Cantar
-> 
-> Ler
-> 
-> Fotografar
-> 
+> Cantar; 
+> Ler; 
+> Fotografar; 
 > Estar com a familia e amigos
 
  - [ ] Estou sempre disposto a aprender e compartilhar o que aprendo.
